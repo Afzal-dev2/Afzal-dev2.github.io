@@ -139,8 +139,9 @@ figure figcaption {
 }
 #colorlib-aside #colorlib-logo {
   text-align: right;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 22px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   margin-bottom: 0.5em;
   display: block;
   width: 100%;
